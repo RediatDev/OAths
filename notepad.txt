@@ -1,0 +1,40 @@
+according to me 
+  1.when sign up its better not to use OAuth but if we are using it , we should have another separate page or using the redirect page for getting other additional user information, but here microsoft gives the phone number
+  2. what about time limitation (client secret saweta time period teyekoge neber azure laye)
+
+
+responses 👍
+  -------------
+google 
+
+              {
+                sub: '107210368038736012030',
+                name: 'Rediat Terefe andualem',
+                given_name: 'Rediat',
+                family_name: 'Terefe andualem',
+                picture: 'https://lh3.googleusercontent.com/a/ACg8ocJNhVyLhb_9JRvayLDaygF3hwUKRR1bCvplesz83QFMenzVCJg=s96-c',      
+                email: 'red.terefe@gmail.com',
+                email_verified: true,
+                locale: 'en'
+              }
+
+  microsoft 
+              {
+              '@odata.context': 'https://graph.microsoft.com/v1.0/$metadata#users/$entity',
+              businessPhones: [ 'NA' ],
+              displayName: 'Rediat Terefe Andualem',
+              givenName: 'Rediat Terefe Andualem',
+              jobTitle: 'NA',
+              mail: 'rediat_ta@ch.iitr.ac.in',
+              mobilePhone: '7452099300',
+              officeLocation: 'NA',
+              preferredLanguage: null,
+              surname: '22908021',
+              userPrincipalName: 'rediat_ta@ch.iitr.ac.in',
+              id: '01c74a1f-4513-4c09-9e05-74e4ac386797'
+               }
+  
+
+  my microsoftLink : https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/ApplicationMenuBlade/~/Credentials/appId/ad48cd0a-dd0a-408b-971e-2e175bc573ac/isMSAApp~/false
+  my googleLink : https://console.developers.google.com/
+  
